@@ -60,15 +60,12 @@ div.blue {
     text-align: left;
     margin-right: 50px; 
     border-width: 2px 5px 0px 0px ; 
+    color: #C4C4C4
     }
 
-div.blue h2 {
-    color: #C4C4C4;
-}
-
-div.blue p {
-    color: #C4C4C4;
-}
+.blue h2 {
+        color: #C4C4C4;
+    }
 
 div.yellow {
     background-color: #FFFF00;
@@ -78,7 +75,7 @@ div.yellow {
     
 }
 
-div.yellow p {
+.yellow p {
     color: #707070;
 }
 
@@ -93,7 +90,7 @@ footer {
     background-image: linear-gradient(to right, #000000 0%, #0000ff 25%, #0066ff 70%, #000000) ;
     border-style: solid;
     border-width: 5px;
-    border-color: #ffffff;
+    border-color: #FFFFFF;
     text-align: right;
     padding: 15px 15px 15px 0px ;
 }
