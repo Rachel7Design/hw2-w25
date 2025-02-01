@@ -60,8 +60,13 @@ div.blue {
     text-align: left;
     margin-right: 50px; 
     border-width: 2px 5px 0px 0px ; 
-    color: #C4C4C4
     }
+
+ .blue p {
+    color: #C4C4C4;
+
+ }
+
 
 .blue h2 {
         color: #C4C4C4;
