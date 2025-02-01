@@ -91,10 +91,11 @@ footer {
     border-style: solid;
     border-width: 5px;
     border-color: #FFFFFF;
-
+    
 }
 
-footer, p {
+footer>p {
     text-align: right;
+    font-size: 20px;
     padding: 15px 15px 15px 0px ;
 }
